@@ -21,11 +21,14 @@ In the documentation but with a working image to augment and write to a folder a
 sudo apt install python3 python3-pip
 ```
 
-###### Install ImgAug, OpenCV and OpenCV Contrib
+###### Install ImgAug, Python OpenCV and OpenCV Contrib bindings. 
 ```bash
 pip3 install imgaug opencv-python opencv-contrib-python
 ```
+###### Install OpenCV
 
+Follow this link to install the latest OpenCV on Ubuntu.
+https://www.learnopencv.com/install-opencv3-on-ubuntu/ 
 
 ## Installation
 
